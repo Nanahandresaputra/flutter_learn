@@ -1,0 +1,5 @@
+Column => seperti flex column
+Row => seperti flex row
+
+property pada widget Column dan Row => 
+        mainAxisAligment

@@ -1,0 +1,8 @@
+maxlines => untuk memberikan maksimal jumlah garis pada text
+
+overflow => menampilkan text pada saat terpotong
+    overflow: elipsis => menampilkan ... pada saat text nya terpotong
+
+softwrap => default nya bernilai true, jika false dan container nya tidak cukup maka akan terpotong dan text nya tidak ke bawah
+
+textAlign: menampilkan posisi text
