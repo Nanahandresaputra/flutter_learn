@@ -15,11 +15,26 @@ class RowColumnWidgetLearn extends StatelessWidget {
       ),
       body: Column(
         children: <Widget>[
-          Text(
-            'Text satu',
-            style: TextStyle(color: Colors.red),
+          Row(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: <Widget>[
+              Text(
+                'Text satu',
+                style: TextStyle(color: Colors.red),
+              ),
+              Text('Text dua')
+            ],
           ),
-          Text('Text dua')
+          Column(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: <Widget>[
+              Text(
+                'Text satu',
+                style: TextStyle(color: Colors.red),
+              ),
+              Text('Text dua')
+            ],
+          )
         ],
       ),
     ));

@@ -15,7 +15,7 @@ class TextWidgetLearn extends StatelessWidget {
             color: Color.fromARGB(255, 191, 112, 255),
             width: 300,
             height: 200,
-            child: Text(
+            child: const Text(
               'Ini Aplikasi flutter pertama saya',
               // maxLines: 2,
               // overflow: TextOverflow.ellipsis,

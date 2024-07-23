@@ -2,4 +2,4 @@ Column => seperti flex column
 Row => seperti flex row
 
 property pada widget Column dan Row => 
-        mainAxisAligment
+        mainAxisAligment => pada Column mengatur aligment secara vertical (seperti items-center pada css) dan pada pada Row mengatur aligment secara horizontal (seperti justify-content pada css)
