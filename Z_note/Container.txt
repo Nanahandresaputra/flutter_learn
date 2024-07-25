@@ -1,2 +1,8 @@
 
             Container => widget pembungkus untuk membungkus widget lainnya agar bisa memberikan padding, margin, background dan lainnya
+
+            ada 2 property yang mungkin sering dipakai yaitu margin dan padding
+
+            EdgeInsets => untuk memasukan nilai dari padding atau marigin
+
+            opsi styling di Container widget bisa menggunakan decoration
