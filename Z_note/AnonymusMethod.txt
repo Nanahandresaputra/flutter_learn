@@ -1,0 +1,3 @@
+Anonymus method => method yang tidak mempunyai nama
+
+kapan menggunakan Anonymus method? => jika method tersebut hanya digunakan satu kali saja
