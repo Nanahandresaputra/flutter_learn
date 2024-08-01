@@ -1,0 +1,1 @@
+List & ListView => berbeda dengan Colomn dan Row jika layar tidak muat maka akan error sedangkan List & ListView akan scroll
