@@ -1,0 +1,3 @@
+AnimatedContainer => {
+    duration = untuk menentukan berapa lama durasi yang akan dijalankan animasi nya
+}

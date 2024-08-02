@@ -1,0 +1,4 @@
+Stack => yaitu tumpukan artinya menyusun stack kedepan (seperti layer pada photoshop)
+
+Align => untuk mengatur posisi widget seperti atas, bawah, tengah, kanan, kiri menggunakan widget Alignment,
+        untuk custom Alignment bisa dengan Alignment(x, y) contoh Alignment(0, 0.75)

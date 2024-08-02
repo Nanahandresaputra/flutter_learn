@@ -65,8 +65,10 @@ class _ListAndListViewWidgetLearnState
                     ),
                     onPressed: () {
                       setState(() {
-                        listWidgets.removeLast();
-                        _lengthValue--;
+                        if (_lengthValue > 1) {
+                          listWidgets.removeLast();
+                          _lengthValue--;
+                        }
                       });
                     },
                     child: Text(
