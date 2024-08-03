@@ -1,0 +1,9 @@
+Image Widget => Image Widget bisa dua macam yaitu image atau gambar yang berasal dari internet atau dari penyimpanan local sendiri
+    untuk gambar dari internet menggunakan NetworkImage('url')
+    untuk gambar dari penyimpanan local menggunakan AssetImage('/directory')
+
+    untuk menyesuaikan gambar ada menggunakan fit
+    fit: BoxFit
+        didalam Boxfit terdapat beberapa jenis yaitu fill, none, contain, cover
+    repeat: ImageRepeat
+         didalam ImageRepeat terdapat beberapa jenis yaitu repeat, noRepeat, repeatX, repeatY
