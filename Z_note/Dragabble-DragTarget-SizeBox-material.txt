@@ -1,0 +1,14 @@
+SizeBox => digunakan untuk membungkus widget yang tidak memiliki property width dan height;
+
+
+Draggable<tipe_data>  => di dalam Draggable terdapat property
+            data: data yang dibawa ketika didrag
+            childWhenDragging: widget yang digambar pada saat didrag
+            feedback: bentuk si widget itu pada saat didrag
+
+DragTarget => DragTarget untuk sebagai target dari Draggable
+    property => {
+        onWillAcceptWithDetails : menerima function yang akan dibawa ini apakah diterima atau tidak
+        onAcceptWithDetails: function yang dilakukan ketika menerima data tersebut
+        builder: sebuah method yang dipakai untuk membuat widget DragTarget
+    }

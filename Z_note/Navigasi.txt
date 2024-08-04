@@ -1,0 +1,3 @@
+Navigator => untuk melakukan pindah halaman atau screen
+
+MaterialRoute => mendifinisikan routingan pada flutter
