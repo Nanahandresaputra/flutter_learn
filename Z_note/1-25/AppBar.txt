@@ -1,0 +1,4 @@
+AppBar => Terdiri dari
+            leading => biasanya logo atau drawer
+            title   => judul AppBar (berupa widget jadi tidak hanya Text bisa juga masukin Container dll)
+            action  => biasanya Terdiri dari button

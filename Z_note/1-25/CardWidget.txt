@@ -1,0 +1,2 @@
+Card widget => untuk mengelompokan data yang saling berkaitan
+    property: - elevation => jarak dari bg ke card

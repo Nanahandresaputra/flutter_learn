@@ -1,0 +1,3 @@
+MediaQuery => kegunaan: 
+                - untuk mendapatkan ukuran dari layar
+                - untuk mendapatkan orientasi (portait, landscape) layar yang sedang digunakan

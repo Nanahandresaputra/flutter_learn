@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'sencond_page.dart';
+import 'package:flutter_learn/screen/sencond_page.dart';
 
 class MainPage extends StatelessWidget {
   @override

@@ -1,0 +1,11 @@
+TextField => yaitu sama seperti input form
+    membutuhkan controller => TextEditingController
+    jika ingin ada nilai awal nya atau default value maka pada TextEditingController tambahkan text contoh TextEditingController(text: 'nilai awal')
+
+    property: - obScureText => untuk input seperti password
+              - maxLength => maksimal panjang input
+
+
+TextField decoration => untuk menstyling TextField, property:
+    -   decoration: InputDecoration => property:
+                        border

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'screen/login_screen.dart';
+import '../../screen/login_screen.dart';
 
 class NavigasiMultiScreenLearn extends StatelessWidget {
   @override
