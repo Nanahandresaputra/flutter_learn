@@ -1,0 +1,2 @@
+PreferredSize => untuk mengubah size pada appbar
+    properti => preferredSize

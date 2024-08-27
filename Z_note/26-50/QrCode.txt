@@ -1,0 +1,11 @@
+menggunakan library/package "qr_flutter: ^4.1.0"
+
+QrImageView => 
+    properties => {
+        data :=> data yang ada pada qr code
+        size :=> ukuran qr code
+        backgrondColor :=> warna pada backgrond qr
+        foregroundColor :=> warna qr code nya
+        errorCorrectionLevel
+        
+    }

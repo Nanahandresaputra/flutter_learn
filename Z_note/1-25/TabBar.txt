@@ -1,0 +1,11 @@
+DefaultTabController => 
+    properties => length :=> memnentukan jumlah yang ada pada tab
+                  child :=> menggunakan Scafold
+TabBar => 
+    properties => Tab :=> berisi widget
+                    properties :=> icon
+                                => text
+                                => child
+
+
+TabBarView => ada pada body sebagai untuk tampilan pada setiap tab

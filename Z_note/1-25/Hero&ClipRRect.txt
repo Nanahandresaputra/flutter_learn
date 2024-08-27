@@ -1,0 +1,5 @@
+ClipRrect => untuk memotong widget menjadi lingkaran atau rounded
+
+Hero => untuk menganimasikan widget ke page berikutnya
+    properrty yang wajib ada:
+        tag => untuk menandakan widget apa saja yang akan di anmiasikan di page selanjutnya, tag harus sama antara main page dan second page contohnya

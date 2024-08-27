@@ -1,0 +1,4 @@
+ShaderMask => 
+    properties => {
+        shaderCallbacks => membutuhkan method atau function untuk membutuhkan masking nya
+    }
