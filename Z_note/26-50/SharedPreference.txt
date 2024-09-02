@@ -1,0 +1,1 @@
+SharedReferences => untuk menyimpan data simple di aplikasi (konsepnya hampir sama seperti localstorage pada web)

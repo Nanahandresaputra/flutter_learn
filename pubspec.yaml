@@ -38,6 +38,7 @@ dependencies:
   audioplayers: ^6.1.0
   qrscan: ^0.3.3
   http: ^1.2.2
+  shared_preferences: ^2.3.2
 
 dev_dependencies:
   flutter_test:

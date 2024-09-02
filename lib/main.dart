@@ -1,4 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_learn/part1/26-50/037_http_req_get_many.dart';
+import 'package:flutter_learn/part1/26-50/042_shared_preferences.dart';
 
-void main() => runApp(HttpReqGetManyLearn());
+void main() => runApp(SharedPreferencesLearn());
