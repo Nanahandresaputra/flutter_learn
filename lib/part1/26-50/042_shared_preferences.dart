@@ -11,8 +11,10 @@ class _SharedPreferencesLearnState extends State<SharedPreferencesLearn> {
   bool _isOn = false;
 
   void saveData() async {
-    final pref = await SharedPreferencesWithCache.create(
-        cacheOptions: const SharedPreferencesWithCacheOptions(allowList: null));
+    // final pref = await SharedPreferencesWithCache.create(
+    //     cacheOptions: const SharedPreferencesWithCacheOptions(allowList: null));
+
+    final SharedPreferences pref = await SharedPreferences.getInstance();
 
     pref.setString('textVal', _textVal.text);
     pref.setBool('isOn', _isOn);
