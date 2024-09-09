@@ -1,4 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_learn/part1/26-50/042_bloc_without_library.dart';
+import 'package:flutter_learn/part1/26-50/043_flutter_bloc.dart';
 
-void main() => runApp(BlocWithoutLibrary());
+void main() => runApp(FlutterBloCLearn());
