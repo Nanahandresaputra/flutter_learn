@@ -3,8 +3,6 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 
 enum ColorEvent { to_amber, to_blue }
 
-class StringName {}
-
 class ColorBloc extends Bloc<ColorEvent, Color> {
   Color _color = Colors.amber;
 
