@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_learn/http_request/post_result_model.dart';
+import 'package:flutter_learn/folder_part1/http_request/post_result_model.dart';
 
 class HttpRequestLearn extends StatefulWidget {
   @override

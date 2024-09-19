@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_learn/040_provider_state_management/shared_state.dart';
+import 'package:flutter_learn/folder_part1/040_provider_state_management/shared_state.dart';
 import 'package:provider/provider.dart';
 
 class ProviderStateManagement extends StatelessWidget {

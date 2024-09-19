@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_learn/http_request/get_user_model.dart';
+import 'package:flutter_learn/folder_part1/http_request/get_user_model.dart';
 
 class HttpReqGetLearn extends StatefulWidget {
   @override

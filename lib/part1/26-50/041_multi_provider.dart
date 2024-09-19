@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_learn/041_multiple_provider/cart.dart';
-import 'package:flutter_learn/041_multiple_provider/money.dart';
+import 'package:flutter_learn/folder_part1/041_multiple_provider/cart.dart';
+import 'package:flutter_learn/folder_part1/041_multiple_provider/money.dart';
 import 'package:provider/provider.dart';
 
 class ProviderStateMultiple extends StatelessWidget {

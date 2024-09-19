@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_learn/bloc_state/without_library.dart';
+import 'package:flutter_learn/folder_part1/bloc_state/without_library.dart';
 
 class BlocWithoutLibrary extends StatefulWidget {
   @override

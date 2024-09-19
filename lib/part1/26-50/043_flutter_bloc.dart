@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:flutter_learn/bloc_state/flutter_bloc.dart';
+import 'package:flutter_learn/folder_part1/bloc_state/flutter_bloc.dart';
 
 class FlutterBlocLearn extends StatelessWidget {
   @override
